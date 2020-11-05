@@ -15,7 +15,7 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
 
     if name:
 
-        token ='1256249898:AAHLGGnPqJNdRddD-78giZJ1OS_Oh3AcYAY'
+        #bot token
         url = f'https://api.telegram.org/bot{token}/getUpdates'
 
         url = f'https://api.telegram.org/bot{token}/sendMessage'
