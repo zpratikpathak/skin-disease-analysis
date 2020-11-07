@@ -9,3 +9,12 @@ We proposed an image processing-based method to detect skin diseases. This metho
 
 # Demo
 ![](https://i.imgur.com/RsclfxP.gif)
+
+# Built with
+For backend : _Python3_ , Azure Function
+For frontend: Javascript, Html, CSS
+
+# How to deploy Azure function
+Open folder "Azure Projects" in Visual Studio and then please refer to this article https://docs.microsoft.com/en-us/azure/azure-functions/functions-develop-vs
+# API
+After deployment, 'Visual Studio Code' will give you a HTTP API which you can update in "Webpage/js/upload.js" on line no 14
