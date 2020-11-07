@@ -8,4 +8,4 @@ We proposed an image processing-based method to detect skin diseases. This metho
 2. Internet connection
 
 # Demo
-[img]https://i.imgur.com/RsclfxP.gif[/img]
+![](https://i.imgur.com/RsclfxP.gif)
